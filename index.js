@@ -1,4 +1,4 @@
-const token = 'MTEzNDk1ODM0NDYwODY5MDE3Ng.GEs7bf.4kENKYhLjhPZei2d9yeYafI398y7wjXv14dS7c'; //Token that you saved in step 5 of this tutorial
+const token = 'MTEzNDk1ODM0NDYwODY5MDE3Ng.GEs7bf.4kENKYhLjhPZei2d9yeYafI398y7wjXv14dS7c'; //dummy token replace with yours
 const CLIENT_ID = 1134958344608690176
 const { Client, Events, GatewayIntentBits } = require('discord.js');
 // Create a new client instance
